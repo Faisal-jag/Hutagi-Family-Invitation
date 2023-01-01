@@ -12,7 +12,7 @@
     justify-content: flex-start;
     align-items: flex-start;
     flex-wrap: wrap;
-    background-color: #ff99b6;
+    /* background-color: #ff99b6; */
     overflow: hidden;
 }
 .banner{
@@ -26,7 +26,7 @@
     justify-content: center;
     align-items: flex-start;
     flex-wrap: wrap;
-    border-radius: 0 0 500px 0;
+    /* border-radius: 0 0 500px 0; */
 }
 .nav{
     width:90%;

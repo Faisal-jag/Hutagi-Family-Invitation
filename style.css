@@ -178,10 +178,10 @@
 footer{
     width:100%;
     height: auto;
-    color:#ddd;
+    color:#f15;
     font-size: 15;
     font-family: monospace;
-    background-color: rgb(168, 156, 198);
+    background-color: rgb(207, 201, 201);
     margin-top: 20px;
     display: inline-flex;
     justify-content: center;
@@ -189,9 +189,9 @@ footer{
     flex-wrap: wrap;
 }
 footer p{
-    color:rgb(247, 249, 250);
+    color: #f15;
     font-size: 15;
     margin: 3px;
     text-align: center;
-    font-family: 'EB Garamond', serif;
+    font-family: 'cookie', cursive;
 }
